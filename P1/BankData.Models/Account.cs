@@ -1,6 +1,6 @@
 ﻿namespace BankData.Models;
 
-class Account
+public class Account
 {
     //Variables to represent Account Information.
     public User user{get;set;}
