@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankData.Models", "BankData
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank.csproj", "{3C66B6F3-5544-46C8-9DFB-204E95431705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankData.Repo", "BankData.Repo\BankData.Repo.csproj", "{3EC83C32-E815-483C-874A-35F2B07BFA2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3C66B6F3-5544-46C8-9DFB-204E95431705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C66B6F3-5544-46C8-9DFB-204E95431705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C66B6F3-5544-46C8-9DFB-204E95431705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC83C32-E815-483C-874A-35F2B07BFA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC83C32-E815-483C-874A-35F2B07BFA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC83C32-E815-483C-874A-35F2B07BFA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC83C32-E815-483C-874A-35F2B07BFA2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -7,4 +7,5 @@ public interface IAccountRepository
     void addAccount(Account account);
     Account getAccountByAccountNumber(int accountNumber);
     bool accountNumberExists(int accountNumber);
+    void UpdateAccount(Account account);
 }
