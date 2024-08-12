@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hponceco/Bank/Bank.csproj": {}
+    "/Users/hponceco/RevWeek1/Harold-Ponce/P0/Bank.csproj": {}
   },
   "projects": {
-    "/Users/hponceco/Bank/Bank.csproj": {
+    "/Users/hponceco/RevWeek1/Harold-Ponce/P0/Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hponceco/Bank/Bank.csproj",
+        "projectUniqueName": "/Users/hponceco/RevWeek1/Harold-Ponce/P0/Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "/Users/hponceco/Bank/Bank.csproj",
+        "projectPath": "/Users/hponceco/RevWeek1/Harold-Ponce/P0/Bank.csproj",
         "packagesPath": "/Users/hponceco/.nuget/packages/",
-        "outputPath": "/Users/hponceco/Bank/obj/",
+        "outputPath": "/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hponceco/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/bin/Release/net8.0/Bank
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/bin/Release/net8.0/Bank.deps.json
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/bin/Release/net8.0/Bank.runtimeconfig.json
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/bin/Release/net8.0/Bank.dll
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/bin/Release/net8.0/Bank.pdb
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.AssemblyInfoInputs.cache
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.AssemblyInfo.cs
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.csproj.CoreCompileInputs.cache
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.sourcelink.json
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.dll
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/refint/Bank.dll
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.pdb
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/Bank.genruntimeconfig.cache
+/Users/hponceco/RevWeek1/Harold-Ponce/P0/obj/Release/net8.0/ref/Bank.dll
